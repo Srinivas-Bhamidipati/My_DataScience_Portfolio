@@ -21,14 +21,16 @@ This portfolio highlights my end-to-end understanding of the data science workfl
 
 **Tools & Technologies**
 
-Category	Tools / Libraries
-Languages	Python, SQL
-Data Manipulation	Pandas, NumPy
-Visualization	Matplotlib, Seaborn, Plotly
-Machine Learning	Scikit-learn, Logistic Regression, Random Forest, KMeans, etc.
+**Languages**
+Python SQL
+**Data Manipulation**
+Pandas, NumPy
+**Visualization**
+Matplotlib, Seaborn, Plotly
+**Machine Learning	Scikit-learn, Logistic Regression, Random Forest, KMeans, etc.
 Deep Learning (upcoming)	TensorFlow, Keras
 Database	PostgreSQL (pgAdmin)
-Version Control	Git, GitHub
+Version Control	Git, GitHub**
 
 
 **Learning Journey**
